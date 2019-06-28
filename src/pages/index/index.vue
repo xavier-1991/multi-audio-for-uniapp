@@ -7,7 +7,7 @@
     </view>
     <view v-for="(item,index) in audioList"
           :key="index">
-      <multi-audio :audioId="'a'+index"
+      <multi-audio :audioId="'b'+index"
                    :audioData="item" deleteBtn="true" @deleteAudio="delAudio"></multi-audio>
     </view>
   </view>

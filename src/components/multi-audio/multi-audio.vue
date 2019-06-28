@@ -61,10 +61,6 @@ export default {
         paddingValue: {
             type: String,
             default: '26upx 0 26upx'
-        },
-        amount: {
-            type: Number,
-            default: 1
         }
      
     },
