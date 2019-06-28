@@ -19,7 +19,7 @@ npm run serve
 
 #### 配置项
 属性 | 类型  | 默认值
----|---|---|---
+|--|--|--
 audioId | String | 无（不能重复）
 audioData | Object | {}
 deleteBtn | Boolean | false
