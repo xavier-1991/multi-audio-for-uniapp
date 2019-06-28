@@ -91,5 +91,5 @@ export default store
 
 #### 预览样式
 
-![image]['https://github.com/xavier-1991/multi-audio-for-uniapp/raw/master/src/static/image.png'] 
+![image](https://github.com/xavier-1991/multi-audio-for-uniapp/raw/master/src/static/image.png) 
 
